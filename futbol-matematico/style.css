@@ -1,0 +1,21 @@
+body{
+    background: url(img/5.png);
+}
+#container-descripcion{
+    margin-top: 50px;
+}
+#container-descripcion h1{
+    font-size: 60px;
+    font-family: cursive;
+    font-weight: bold;
+}
+#container-descripcion p{
+    font-size: 20px;
+}
+.container{
+    margin-top: 50px;
+}
+.container-new{
+    max-height: auto;
+    min-height: 300px;
+  }
