@@ -2,10 +2,14 @@ body{
     background: url(img/5.png);
 }
 #container-descripcion{
-    margin-top: 50px;
+    margin-top: 70px;
 }
 #container-descripcion h1{
     font-size: 60px;
+    font-family: cursive;
+    font-weight: bold;
+}
+#container-descripcion h5{
     font-family: cursive;
     font-weight: bold;
 }
@@ -17,5 +21,5 @@ body{
 }
 .container-new{
     max-height: auto;
-    min-height: 300px;
-  }
+    min-height: 330px;
+}
